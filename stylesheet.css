@@ -1,0 +1,83 @@
+body{
+  background-color: palegreen;
+}
+h1{
+  text-align: center;
+  font-size: 48px;
+  color: White ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+  text-align: center;
+  font-size: 48px;
+  color: purple ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color: goldenrod;
+    font-size: 38px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button{
+  background-color:white;
+  border: none;
+  color: green;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 24px;
+  display: block;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+.center{
+    text-align: center;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mySlides {display:none;}
+ul{
+    list-style-type: none;
+}
+li{
+    float: left;
+}
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(194, 202, 189);
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #0025f5;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ffffff;
+}
+div{
+  text-align: center;
+}
